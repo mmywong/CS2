@@ -1,0 +1,17 @@
+find not any function alternative
+
+/*
+    bool answer;
+
+    answer = scanChar(s[i], charSet);
+
+    while(s[i] != '\0' )
+    {
+        if(answer == true)
+            i++;
+        else
+            return i;
+    }
+
+    return -1;
+    //all characters in charset are found in s.*/
